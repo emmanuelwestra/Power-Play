@@ -1,0 +1,5 @@
+﻿  Player.cpp
+D:\Google Drive\CPSC 2376\Power Plays\Spring 2021\Power Plays\PowerPlay 6\Player.cpp(27,60): error C2429: language feature 'init-statements in if/switch' requires compiler flag '/std:c++17'
+D:\Google Drive\CPSC 2376\Power Plays\Spring 2021\Power Plays\PowerPlay 6\Player.cpp(54,53): error C2429: language feature 'init-statements in if/switch' requires compiler flag '/std:c++17'
+D:\Google Drive\CPSC 2376\Power Plays\Spring 2021\Power Plays\PowerPlay 6\Player.cpp(73,53): error C2429: language feature 'init-statements in if/switch' requires compiler flag '/std:c++17'
+D:\Google Drive\CPSC 2376\Power Plays\Spring 2021\Power Plays\PowerPlay 6\Player.cpp(77,55): error C2429: language feature 'init-statements in if/switch' requires compiler flag '/std:c++17'
